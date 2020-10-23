@@ -1,0 +1,3 @@
+all:
+	cmake -DBUILD_SHARED_LIBS=OFF ..
+	cmake --build .
