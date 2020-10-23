@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+boost*
+libgit2*
+build-*
+fritzing*
+source
+tags
